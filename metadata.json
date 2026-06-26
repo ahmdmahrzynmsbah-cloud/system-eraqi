@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة الأعمال (ERP)",
+  "description": "نظام متكامل لإدارة المبيعات، المخزون، العملاء والمصروفات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
